@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナイスだね",
+  "base_artist": "CUTIE STREET",
+  "createdAt": "2026-03-29T05:03:20.584061Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナイスだね",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_01_ナイスだね_CUTIE_STREET.txt"
+    }
+  ]
+}
